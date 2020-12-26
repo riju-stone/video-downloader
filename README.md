@@ -1,2 +1,2 @@
 # video-downloader
-A simple yet powerful video and audio downloader
+A Simple yet Powerful Video and Audio Downloader
